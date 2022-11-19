@@ -63,7 +63,7 @@ export function counterComponent() {
     fragment.appendChild(btn)
     fragment.appendChild(current_count)
 
-    console.log("Completed Succesfully")
+    console.log("Finally Did it")
 
     return root.appendChild(fragment);
 }
